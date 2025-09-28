@@ -1,2 +1,42 @@
-# HW-sept-29
-idk
+<!DOCTYPE html>
+<?xml-stylesheet type="text/css" href="Untitled20.css"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Plant-it Tarium</title>
+    </head>
+    <body>
+        <h1>
+            Plant-it Tarium
+        </h1>
+        <h2>
+            How to take care of your sad dorm plants!
+        </h2>
+        <p>
+            <strong>Pilea.</strong> <em>Pilea peperomiodes.</em> The Pilea, also known as the <em>Chinese Money Plant</em> is known for it's circular "coin-like" leaves. 
+        </p>
+        <p>
+            <strong>Plant Care</strong>
+        </p>
+        <ul>
+            <li>Bright indirect sunlight</li>
+            <li>Chunky aeraited soil</li>
+            <li>Water frequently</li>
+        </ul>
+        <p>
+            <strong>Pros</strong></p>
+        <ul>
+            <li>Easy to propagate</li>
+            <li>Heardy</li>
+            <li>Many pups/baby plants</li>
+            <li>Non-Toxic to <em>cats</em> and <em>dogs</em></li>
+        </ul>
+        <p>
+            <strong>Cons</strong>
+        </p>
+        <ul>
+            <li>Can drop leaves if there is not enough sunlight</li>
+            <li>Prone to root-rot</li>
+            <li>Dramatic</li>
+        </ul>
+    </body>
+</html>
