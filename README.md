@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<?xml-stylesheet type="text/css" href="Untitled20.css"?>
-<html xmlns="http://www.w3.org/1999/xhtml">
+
     <head>
         <title>Plant-it Tarium</title>
     </head>
